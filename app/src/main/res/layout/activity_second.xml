@@ -8,6 +8,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Hej där!" />
+        android:text="@string/text_result"
+        android:id="@+id/textview_date"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
